@@ -1,4 +1,4 @@
-### Zabbix-Server (CentOS-7 + Supervisor)
+### Zabbix-Server (Alpine + Supervisor)
 
 [![CircleCI Build Status](https://img.shields.io/circleci/project/million12/docker-zabbix-server/master.svg)](https://circleci.com/gh/million12/docker-zabbix-server/tree/master)
 [![GitHub Open Issues](https://img.shields.io/github/issues/million12/docker-zabbix-server.svg)](https://github.com/million12/docker-zabbix-server/issues)
