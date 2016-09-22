@@ -1,4 +1,4 @@
-FROM zabbix/zabbix-3.0:3.0.1
+FROM zabbix/zabbix-server-mysql:alpine-3.2-latest
 MAINTAINER Marcin Ryzycki marcin@m12.io, Przemyslaw Ozgo linux@ozgo.info
 
 RUN \
