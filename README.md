@@ -1,18 +1,8 @@
 ### Zabbix-Server (Alpine + Supervisor)
 
-[![CircleCI Build Status](https://img.shields.io/circleci/project/million12/docker-zabbix-server/master.svg)](https://circleci.com/gh/million12/docker-zabbix-server/tree/master)
-[![GitHub Open Issues](https://img.shields.io/github/issues/million12/docker-zabbix-server.svg)](https://github.com/million12/docker-zabbix-server/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/million12/docker-zabbix-server.svg)](https://github.com/million12/docker-zabbix-server)
-[![GitHub Forks](https://img.shields.io/github/forks/million12/docker-zabbix-server.svg)](https://github.com/million12/docker-zabbix-server)  
-[![Stars on Docker Hub](https://img.shields.io/docker/stars/million12/zabbix-server.svg)](https://hub.docker.com/r/million12/zabbix-server)
-[![Pulls on Docker Hub](https://img.shields.io/docker/pulls/million12/zabbix-server.svg)](https://hub.docker.com/r/million12/zabbix-server)  
-[![Docker Layers](https://badge.imagelayers.io/million12/zabbix-server:latest.svg)](https://hub.docker.com/r/million12/zabbix-server)
-
-[![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/?repo=https://github.com/million12/docker-zabbix-server/tree/master)
-
-[Docker Image](https://registry.hub.docker.com/u/million12/zabbix-server/) with Zabbix Server using CentOS-7 and Supervisor.
+[Docker Image](https://registry.hub.docker.com/u/million12/zabbix-server/) with Zabbix Server using Alpine and Supervisor.
 Image is using external datbase.  
-This image is using offcial [zabbix-server-2.4](https://registry.hub.docker.com/u/zabbix/zabbix-server-2.4/) Docker Image as base image.
+This image is using offcial [zabbix-server](https://registry.hub.docker.com/u/zabbix) Docker Image as base image.
 
 #### Installed Plugins
 >    Email Notifications with authorisation  
